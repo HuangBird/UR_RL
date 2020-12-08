@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/sjtu/Desktop/fangxiaomeng/UR5_RL_Assembly/logs/2020-01-01.21:07:09/models/params"
+all_model_checkpoint_paths: "/home/sjtu/Desktop/fangxiaomeng/UR5_RL_Assembly/logs/2020-01-01.21:07:09/models/params"

@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/pengsheng/Optimal_control_Project/UR_robot/UR5_RL_Assembly-inserted-v1/logs/2020-12-08.13:44:16/models/params"
+all_model_checkpoint_paths: "/home/pengsheng/Optimal_control_Project/UR_robot/UR5_RL_Assembly-inserted-v1/logs/2020-12-08.13:44:16/models/params"
